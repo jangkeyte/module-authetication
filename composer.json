@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Modules\\": "vendor/authetication/"
+            "Modules\\": "vendor/jangkeyte/"
         }
     },
     "minimum-stability": "stable",
