@@ -1,8 +1,8 @@
-@extends('Authetication::master')
+@extends('JangKeyte::layouts.guest')
 
-@section('title', 'Trang đăng nhập')
+@section('title', 'Đăng nhập hệ thống')
 
-@section('entry_content')
+@section('content')
 
 <style>
     body{
@@ -51,4 +51,4 @@
     </div>
 </div>
 
-@stop
+@endsection
